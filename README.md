@@ -1,0 +1,2 @@
+# AJAXAssignment
+Some AJAX exersise. 
